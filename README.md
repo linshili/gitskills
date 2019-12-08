@@ -1,3 +1,16 @@
 # gitskills
 
-create new branch is quick &  simple.
+<<<<<<< HEAD
+
+Creating a new branch is quick.
+add message by branch dev
+
+create new branch is quick AND  simple.
+=======
+
+```
+Creating a new branch is quick.
+add message by branch dev 
+Creating a new branch is quick AND simple.
+```
+>>>>>>> feature1
