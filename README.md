@@ -2,7 +2,7 @@
 
 <<<<<<< HEAD
 
-Creating a new branch is quick.
+Creating a new branch is quick,hhhhhhhhhh.
 add message by branch dev
 
 create new branch is quick AND  simple.
